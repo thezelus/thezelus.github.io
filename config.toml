@@ -1,0 +1,18 @@
+baseURL = 'https://thezelus.github.io'
+languageCode = 'en-us'
+title = "The Loonie Bin"
+
+
+[params]
+  copyright = "© Abhishek Sharma"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[taxonomies]
+   tag = "tags"
